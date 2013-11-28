@@ -1,4 +1,4 @@
-html
+HTML
 ====
 
-HTML Learning Resource
+HTML Learning Resource.
