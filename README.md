@@ -2,5 +2,4 @@ HTML
 ====
 
 HTML Learning Resource.
-
-http://html.amolwankhede.com
+These files are complete code examples of demo codes provided in http://html.amolwankhede.com
