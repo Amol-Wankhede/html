@@ -6,5 +6,5 @@ These files are complete code examples of demo codes provided in http://html.amo
 
 ---
 
-To dowload all the examples
-**Click Download ZIP** ----------------------------------------->.
+> To dowload all the examples
+> **[Download ZIP](https://github.com/Amol-Wankhede/html/archive/master.zip)**
